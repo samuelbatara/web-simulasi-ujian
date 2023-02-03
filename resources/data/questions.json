@@ -1,0 +1,182 @@
+[
+    {
+        "text": "Hitunglah 10 x 5!",
+        "options": [
+            {
+                "code": "A",
+                "alias": 0,
+                "text": 50
+            },
+            {
+                "code": "B",
+                "alias": 1,
+                "text": 40
+            },
+            {
+                "code": "C",
+                "alias": 2,
+                "text": 60
+            },
+            {
+                "code": "D",
+                "alias": 3,
+                "text": 70
+            }
+        ],
+        "answer": {
+            "code": "A",
+            "alias": 0,
+            "text": 50
+        }
+    },
+    {
+        "text": "Hitunglah 10 + 15!",
+        "options": [
+            {
+                "code": "A",
+                "alias": 0,
+                "text": 10
+            },
+            {
+                "code": "B",
+                "alias": 1,
+                "text": 20
+            },
+            {
+                "code": "C",
+                "alias": 2,
+                "text": 25
+            },
+            {
+                "code": "D",
+                "alias": 3,
+                "text": 35
+            }
+        ],
+        "answer": {
+            "code": "C",
+            "alias": 2,
+            "text": 25
+        }
+    },
+    {
+        "text": "Hitunglah 11 x 3!",
+        "options": [
+            {
+                "code": "A",
+                "alias": 0,
+                "text": 43
+            },
+            {
+                "code": "B",
+                "alias": 1,
+                "text": 33
+            },
+            {
+                "code": "C",
+                "alias": 2,
+                "text": 13
+            },
+            {
+                "code": "D",
+                "alias": 3,
+                "text": 11
+            }
+        ],
+        "answer": {
+            "code": "B",
+            "alias": 1,
+            "text": 33
+        }
+    },
+    {
+        "text": "Hitunglah 30 \/ 15!",
+        "options": [
+            {
+                "code": "A",
+                "alias": 0,
+                "text": 2
+            },
+            {
+                "code": "B",
+                "alias": 1,
+                "text": 3
+            },
+            {
+                "code": "C",
+                "alias": 2,
+                "text": 4
+            },
+            {
+                "code": "D",
+                "alias": 3,
+                "text": 5
+            }
+        ],
+        "answer": {
+            "code": "A",
+            "alias": 0,
+            "text": 2
+        }
+    },
+    {
+        "text": "Hitunglah 15 - 17!",
+        "options": [
+            {
+                "code": "A",
+                "alias": 0,
+                "text": -1
+            },
+            {
+                "code": "B",
+                "alias": 1,
+                "text": -2
+            },
+            {
+                "code": "C",
+                "alias": 2,
+                "text": 2
+            },
+            {
+                "code": "D",
+                "alias": 3,
+                "text": 1
+            }
+        ],
+        "answer": {
+            "code": "B",
+            "alias": 1,
+            "text": -2
+        }
+    },
+    {
+        "text": "Hitunglah 10 * 10!",
+        "options": [
+            {
+                "code": "A",
+                "alias": 0,
+                "text": 80
+            },
+            {
+                "code": "B",
+                "alias": 1,
+                "text": 90
+            },
+            {
+                "code": "C",
+                "alias": 2,
+                "text": 100
+            },
+            {
+                "code": "D",
+                "alias": 3,
+                "text": 120
+            }
+        ],
+        "answer": {
+            "code": "C",
+            "alias": 2,
+            "text": 100
+        }
+    }
+]

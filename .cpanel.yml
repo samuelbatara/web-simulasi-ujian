@@ -3,5 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1576475/public_html/simulasi-ujian/
     - mkdir -p /home/u1576475/simulasi-ujian/
-    - cp -r ./* /home/u1576475/simulasi-ujian/
-    - cp -r ./public/* $DEPLOYPATH
+    - cp -rf ./* /home/u1576475/simulasi-ujian/
+    - cp -rf ./public/* $DEPLOYPATH
